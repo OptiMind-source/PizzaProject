@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\PizzaProject\bin\Debug\PizzaProject.exe.config
+C:\Users\lenovo\Desktop\PizzaProject\bin\Debug\PizzaProject.exe
+C:\Users\lenovo\Desktop\PizzaProject\bin\Debug\PizzaProject.pdb
+C:\Users\lenovo\Desktop\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\PizzaProject\obj\Debug\PizzaProject.Form1.resources
+C:\Users\lenovo\Desktop\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+C:\Users\lenovo\Desktop\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PizzaProject\obj\Debug\PizzaProject.exe
+C:\Users\lenovo\Desktop\PizzaProject\obj\Debug\PizzaProject.pdb
